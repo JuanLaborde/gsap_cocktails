@@ -17,7 +17,7 @@ const Navbar = () => {
             backgroundFilter: "blur(10px)",
             duration: 1,
             ease: "power1.inOut"
-
+//https://www.youtube.com/watch?v=AW1yfBKRMKc&t=1s   Hero Section
         });
     })
     return (
