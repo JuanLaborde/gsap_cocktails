@@ -96,4 +96,4 @@ const Menu = () => {
         </section>
     )
 }
-export default Menu;
+export default Menu

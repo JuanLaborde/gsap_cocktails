@@ -15,7 +15,7 @@ const Art = () => {
                 start,
                 end: 'bottom center',
                 scrub: 1.5,
-                pin: true
+                pin: true,
             }
         })
 
@@ -69,4 +69,4 @@ const Art = () => {
         </div>
     )
 }
-export default Art
+export default Art;
